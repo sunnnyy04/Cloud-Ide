@@ -1,0 +1,15 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#playground-container{
+  display: flex;
+  flex-direction: column;
+}
+#code-editor{ 
+  display: flex;
+  flex-direction: row;
+  height: 61.5vh;
+  padding-left: 1px;
+  border-radius: 3px;
+}
